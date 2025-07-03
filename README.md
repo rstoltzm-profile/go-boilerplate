@@ -5,5 +5,5 @@
 
 | Folder | Description | Modules |
 |--------|-------------|---------|
-| go-cli-files | Basic CLI application with environment variable checks and command-line argument parsing | flag, os, log |
+| go-cli-files | CLI app with env variable checks and command-line support | flag, os, log |
 
