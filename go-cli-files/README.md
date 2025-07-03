@@ -1,17 +1,20 @@
 # go-cli-files
 
-* Boilerplate code for a Go CLI application with environment variable checks and command-line argument parsing.
-* Compiles to Windows and Linux binaries.
+* Boilerplate code for a Go CLI application 
+* Supports environment variable checks and command-line argument parsing.
+* Cross platform support (Linux and Windows)
 * Light weight 2.5MB binary
 
-## Usage
 
+## Usage
+### Linux
 ```bash
 export API_KEY="blah"
 export ENDPOINT="blah.com"
 bin/cli-template --variable "test" --inputFile "file.json" --outFormat "json" --outFile "outFile.json"
 ```
 
+### Powershell
 ```powershell
 $env:API_KEY = "blah"
 $env:ENDPOINT = "blah.com"
