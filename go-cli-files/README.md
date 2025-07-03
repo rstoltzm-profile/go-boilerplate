@@ -1,6 +1,8 @@
 # go-cli-files
 
 * Boilerplate code for a Go CLI application with environment variable checks and command-line argument parsing.
+* Compiles to Windows and Linux binaries.
+* Light weight 2.5MB binary
 
 ## Usage
 
