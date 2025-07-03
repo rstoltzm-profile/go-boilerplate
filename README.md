@@ -1,8 +1,9 @@
 # go-boilerplate
 
-* Go boilerplate code using standard libraries
+* The go standard libraries are powerful and can be used to minimize dependencies.
 
-| Folder | Description |
-|--------|-------------|
-| go-cli-files | Basic CLI application with environment variable checks and command-line argument parsing |
+
+| Folder | Description | Modules |
+|--------|-------------|---------|
+| go-cli-files | Basic CLI application with environment variable checks and command-line argument parsing | flag, os, log |
 
