@@ -1,4 +1,4 @@
-# go-cli-files
+# Basic Go CLI Application
 
 * Boilerplate code for a Go CLI application 
 * Supports environment variable checks and command-line argument parsing.
