@@ -3,7 +3,7 @@
 * The go standard libraries are powerful and can be used to minimize dependencies.
 
 
-| Folder | Description | Modules |
+| Folder | Modules | Description |
 |--------|-------------|---------|
-| go-cli-files | CLI app with env variable checks and command-line support | flag, os, log |
+| go-cli-files | flag, os, log | CLI app with env variable checks and command-line support |
 
